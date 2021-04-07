@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Pfad_46" data-name="Pfad 46" d="M0,29.715H40v-40H0Z" transform="translate(0 10.285)" fill="#6fb749"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_82" data-name="Gruppe 82" transform="translate(-1030 -3391)">
+    <g id="Gruppe_29" data-name="Gruppe 29" transform="translate(1030 3401.285)">
+      <g id="Gruppe_28" data-name="Gruppe 28" transform="translate(0 -10.285)" clip-path="url(#clip-path)">
+        <g id="Gruppe_27" data-name="Gruppe 27" transform="translate(0 0)">
+          <path id="Pfad_45" data-name="Pfad 45" d="M0,14.859a20.038,20.038,0,0,1,20-20A20.236,20.236,0,0,1,33.773.38l3.387-3.36a1.608,1.608,0,0,1,1.8-.366A1.669,1.669,0,0,1,40-1.81V9.857a1.678,1.678,0,0,1-1.668,1.668H26.664a1.669,1.669,0,0,1-1.536-1.042,1.607,1.607,0,0,1,.366-1.8l3.566-3.6A13.331,13.331,0,1,0,20,28.195a13.179,13.179,0,0,0,10.52-5.188.872.872,0,0,1,.6-.311,1,1,0,0,1,.653.233l3.566,3.6a.865.865,0,0,1,.054,1.12A20.01,20.01,0,0,1,0,14.859m16.669-7.5a.821.821,0,0,1,.832-.832h1.665A.823.823,0,0,1,20,7.357v9.171h5.834a.819.819,0,0,1,.832.832v1.665a.821.821,0,0,1-.832.832H17.5a.821.821,0,0,1-.832-.832Z" transform="translate(0 5.143)" fill="#6fb749"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Bullet_Häkchen" data-name="Bullet / Häkchen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="15.329" viewBox="0 0 20 15.329">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Pfad_34" data-name="Pfad 34" d="M0,7.374H20V-7.955H0Z" transform="translate(0 7.955)" fill="#6fb749"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_9" data-name="Gruppe 9" clip-path="url(#clip-path)">
+    <g id="Gruppe_8" data-name="Gruppe 8" transform="translate(-0.001 0.002)">
+      <path id="Pfad_33" data-name="Pfad 33" d="M9.621,1.44a1.253,1.253,0,0,0-.36-.877L7.505-1.193a1.256,1.256,0,0,0-.877-.36,1.257,1.257,0,0,0-.879.36L-2.714,7.284-6.508,3.478a1.246,1.246,0,0,0-.877-.362,1.251,1.251,0,0,0-.879.362l-1.754,1.755a1.243,1.243,0,0,0-.362.877,1.246,1.246,0,0,0,.362.877l4.671,4.671,1.754,1.755a1.257,1.257,0,0,0,.879.36,1.253,1.253,0,0,0,.877-.36l1.755-1.755L9.261,2.316a1.253,1.253,0,0,0,.36-.877" transform="translate(10.379 1.553)" fill="#6fb749"/>
+    </g>
+  </g>
+</svg>

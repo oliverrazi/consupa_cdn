@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Pfad_34" data-name="Pfad 34" d="M0,12.045H26.094v-20H0Z" transform="translate(0 7.955)" fill="#6fb749"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_54" data-name="Gruppe 54" transform="translate(-206 -644)">
+    <g id="Bullet_Häkchen" data-name="Bullet / Häkchen" transform="translate(213 655)">
+      <g id="Gruppe_9" data-name="Gruppe 9" clip-path="url(#clip-path)">
+        <g id="Gruppe_8" data-name="Gruppe 8" transform="translate(-0.001 0.002)">
+          <path id="Pfad_33" data-name="Pfad 33" d="M15.715,2.351a1.635,1.635,0,0,0-.47-1.144l-2.29-2.29a1.639,1.639,0,0,0-1.144-.47,1.64,1.64,0,0,0-1.146.47L-.378,9.977l-4.95-4.965a1.626,1.626,0,0,0-1.144-.473,1.632,1.632,0,0,0-1.146.473L-9.906,7.3a1.622,1.622,0,0,0-.473,1.144A1.626,1.626,0,0,0-9.906,9.59l6.094,6.094,2.288,2.29a1.64,1.64,0,0,0,1.146.47,1.635,1.635,0,0,0,1.144-.47l2.29-2.29L15.245,3.5a1.635,1.635,0,0,0,.47-1.144" transform="translate(10.379 1.553)" fill="#6fb749"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(206 644)" fill="none" stroke="#6fb749" stroke-width="2">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19" fill="none"/>
+    </g>
+  </g>
+</svg>
